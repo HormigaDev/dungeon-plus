@@ -1,0 +1,8 @@
+S_WIDTH = 32
+S_HEIGHT = 32
+BAT_RIGHT_1 = (1, 1)
+BAT_RIGHT_2 = (2, 1)
+BAT_RIGHT_3 = (3, 1)
+BAT_LEFT_1 = (1, 3)
+BAT_LEFT_2 = (2, 3)
+BAT_LEFT_3 = (3, 3)

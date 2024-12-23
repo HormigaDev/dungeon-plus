@@ -1,0 +1,11 @@
+{
+    "health": 500,
+    "damage": 1,
+    "resistance": 1.0,
+    "speed": 2,
+    "weight": 50,
+    "damage_range": 0.5,
+    "attack_cooldown_time": 2000,
+    "detect_entity_range": 8,
+    "xp_multiplier": 0.8
+}
